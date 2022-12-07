@@ -1,0 +1,15 @@
+<suite name="OrangeHRM TestSuite">
+
+	<test name="Admin Login Testcase">
+		<classes>
+			<class name="testrunners.AdminLoginTest"></class>
+		</classes>
+	</test>
+		
+	<test name="Employee Registration Testcase">
+		<classes>
+			<class name="testrunners.EmployeeRegTest"></class>
+		</classes>
+	</test>
+	
+</suite>
